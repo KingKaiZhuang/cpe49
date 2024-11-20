@@ -4,6 +4,7 @@
     "cstddef": "cpp",
     "iostream": "cpp",
     "set": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "xtree": "cpp"
   }
 }
